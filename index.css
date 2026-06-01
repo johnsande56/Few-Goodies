@@ -448,6 +448,9 @@ footer p{
   nav{
     border-radius: 15px;
     justify-content: center;
+    align-items: center;
+    height: 50px;
+
   }
   .logo{
     line-height: 1.1;
@@ -455,8 +458,10 @@ footer p{
 
   }
   ul li a{
-    font-size: .3rem;
-    margin-left: 2rem;
+    font-size: .7rem;
+    margin-left: 1.5rem;
+  /*   padding-bottom: rem;
+    padding-top: 1.2rem; */
   }
   .card-2{
   color: #ffffff;
