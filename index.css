@@ -97,7 +97,7 @@ li a:hover::after{
   max-height: 100vh;
   padding: 10% 3% 0 3%;
   width: 100%;
-   background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(photos/3.jpg) center/cover; 
+   background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(3.jpg) center/cover; 
  
 }
  .hero h1{
